@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\algorithm template\\Binary algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15F33026-E593-4377-985D-E19565459C75}|Binary algorithm\\Binary algorithm.vcxproj|C:\\Users\\ASUS\\Desktop\\algorithm template\\Binary algorithm\\Binary algorithm\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15F33026-E593-4377-985D-E19565459C75}|Binary algorithm\\Binary algorithm.vcxproj|solutionrelative:Binary algorithm\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\algorithm template\\Binary algorithm\\Binary algorithm\\FileName.cpp",
+              "RelativeDocumentMoniker": "Binary algorithm\\FileName.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\algorithm template\\Binary algorithm\\Binary algorithm\\FileName.cpp",
+              "RelativeToolTip": "Binary algorithm\\FileName.cpp",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAqwC8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T11:29:00.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
